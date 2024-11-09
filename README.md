@@ -3,4 +3,4 @@ Nama Kelompok:
 Azka Erlangga Putra,
 Muhammad Daffa Fadlurrahman,
 Muhammad Lazuardi,
-Syahril Arfian Almazri
+Syahril Arfian Almazril
